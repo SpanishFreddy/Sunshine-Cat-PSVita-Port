@@ -1,5 +1,7 @@
 # Sunshine Cat PSVita Port
 This is a port for the psvita of the original source code: https://github.com/tanjo3/Sunshine-Cat-Platformer
+Source Code Of this port: https://github.com/SpanishFreddy/Sunshine-Cat-PSVita-Port/blob/main/Source%20Code.txt
+VPK File of this port: https://github.com/SpanishFreddy/Sunshine-Cat-PSVita-Port/blob/main/VPK%20File.txt
 
 Original README File:
 Sunshine-Cat-Platformer
