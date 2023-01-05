@@ -31,8 +31,6 @@ There's only one level; the three buttons on the main menu are there for show (I
 It uses Unity, which I was learning at the time.
 The first scene that should be loaded is Setup.
 
-I had to remove the music and jump sounds because I just took them from Super Mario Sunshine.
-
 Assets used:
 Skybox Volume 2 (Nebula) by Hedgehog Team (https://www.assetstore.unity3d.com/en/#!/content/3392)
 Cute Kitten by leshiy3d (https://www.assetstore.unity3d.com/en/#!/content/33121)
