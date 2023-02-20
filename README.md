@@ -1,9 +1,26 @@
 # Sunshine Cat PSVita Port
 This is a port for the psvita of the original source code: https://github.com/tanjo3/Sunshine-Cat-Platformer
 
+![Screenshot 2023-02-20 16-27-59](https://user-images.githubusercontent.com/121837347/220146855-c9438d96-335d-4fe8-9
+760-e0bfbff4fb37.png)
+
 Source Code of this port: https://drive.google.com/file/d/1dQBcrTSooVjH6u7ngMeIEJd7FEx-oQOF/view?usp=sharing
 
 VPK File of this port: https://drive.google.com/file/d/1z-WurBqcbIfq4bLN-vchnShnW3Ahvua-/view?usp=share_link
+
+You can select to have checkpoints or have infinite lives.
+
+Shadows are compressed to have more good performance.
+
+![Screenshot 2023-02-20 16-28-12](https://user-images.githubusercontent.com/121837347/220147249-9a25f736-1497-4399-bf39-
+c517c3d554d0.png)
+
+I added music and soon i will add sound effects (Juping, goal, etc).
+
+I added some plataforms to help in some hard zones.
+
+![Screenshot 2023-02-20 16-29-00](https://user-images.githubusercontent.com/121837347/220147551-349c8fbe-ce17-4271-b542-
+1b559b9ee9ec.png)
 
 Controls of the port:
 
