@@ -25,7 +25,7 @@ Joystick: Move
 
 Triangle: Jump
 
-Music Used in this port:
+Music used in this port:
 
 Undertale Start Menu: https://store.steampowered.com/app/391540/Undertale/
 
