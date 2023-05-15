@@ -3,9 +3,11 @@ This is a port for the psvita of the original source code: https://github.com/ta
 
 ![Screenshot 2023-02-20 16-27-59](https://user-images.githubusercontent.com/121837347/220146855-c9438d96-335d-4fe8-9760-e0bfbff4fb37.png)
 
-Source Code of this port: https://drive.google.com/file/d/1dQBcrTSooVjH6u7ngMeIEJd7FEx-oQOF/view?usp=sharing
+V3 IS HERE!!!
 
-VPK File of this port: https://drive.google.com/file/d/1z-WurBqcbIfq4bLN-vchnShnW3Ahvua-/view?usp=share_link
+Source Code of this port: https://drive.google.com/file/d/1H_ip5HowI8fBsQL83uGTUHKaZ-8mqM_n/view?usp=sharing
+
+VPK File of this port: https://drive.google.com/file/d/1nqzBPgLQZQxy1EI6Xtdw7Zm2rizRUpPM/view?usp=share_link
 
 You can select to have checkpoints or have infinite lives.
 
@@ -16,6 +18,8 @@ Shadows are compressed to have more good performance.
 I added music and soon i will add sound effects (Juping, goal, etc).
 
 I added some plataforms to help in some hard zones.
+
+I fixed some problems and it now works better.
 
 ![Screenshot 2023-02-20 16-29-00](https://user-images.githubusercontent.com/121837347/220147551-349c8fbe-ce17-4271-b542-1b559b9ee9ec.png)
 
