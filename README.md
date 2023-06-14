@@ -35,7 +35,7 @@ Undertale Start Menu: https://store.steampowered.com/app/391540/Undertale/
 
 Super Mario Sunshine Secret Courses: https://www.nintendo.es/Juegos/Nintendo-GameCube/Super-Mario-Sunshine-268918.html
 
-If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
+If you like Unity and you know how to do decomps/ports, you can help me whit the code talking whit me in discord: SpanishFreddy#6380
 
 Original README File:
 
